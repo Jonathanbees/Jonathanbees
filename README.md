@@ -1,4 +1,6 @@
-### Hi there and welcome 👋
+<div align="center">
+  <img src="docs/hello.svg">
+</div>
 
 ## About me
 
