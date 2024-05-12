@@ -14,9 +14,8 @@
 ![Python](https://badgen.net/badge/Python/3.12/green) ![PHP](https://badgen.net/badge/PHP/8.12/blue) ![JavaScript](https://badgen.net/badge/JavaScript/ES7/yellow) ![C++](https://badgen.net/badge/C++/20/blue) ![MySQL](https://badgen.net/badge/MySQL/8.4/orange) ![MongoDB](https://badgen.net/badge/MongoDB/7.0/green) ![HTML](https://badgen.net/badge/HTML/5/red) ![CSS](https://badgen.net/badge/CSS/3/blue)
 
 <br>
-<p align="center">
+
 ![image](https://www.codewars.com/users/Jonathanbees/badges/large)
-</p>
   
 ### ⚙️ &nbsp;GitHub Analytics
 
