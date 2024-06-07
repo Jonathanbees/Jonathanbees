@@ -20,9 +20,14 @@
 ### ⚙️ &nbsp;GitHub Analytics
 
 <div align="center"> 
-  <img height=250 src="https://github-readme-stats.vercel.app/api?username=Jonathanbees&include_all_commits=true&show_icons=true&line_height=28&hide_border=true&rank_icon=percentile&card_width=1px&exclude_repo=github-readme-stats&theme=transparent&custom_title=Jonathanbees%27s+Github+stats" alt="Jonathanbees's Github stats" />
-  <img height=250 src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jonathanbees&layout=donut&langs_count=8&line_height=0.5&hide=HTML&hide_title=true&hide_border=true&role=owner,collaborator&theme=transparent&custom_title=Jonathanbees%27s+Language+stats&card_width=1px" alt="Jonathanbees's Language stats" />
+  <img height=250 src="https://github-readme-stats.vercel.app/api?username=Jonathanbees&include_all_commits=true&show_icons=true&line_height=28&hide_border=true&rank_icon=percentile&card_width=1px&exclude_repo=github-readme-stats&theme=vision-friendly-dark&custom_title=Jonathanbees%27s+Github+stats" alt="Jonathanbees's Github stats" />
+  <!--<img height=250 src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jonathanbees&layout=donut&langs_count=8&line_height=0.5&hide=HTML&hide_title=true&hide_border=true&role=owner,collaborator&theme=transparent&custom_title=Jonathanbees%27s+Language+stats&card_width=1px" alt="Jonathanbees's Language stats" />-->
+  <img width="400" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jonathanbees&size_weight=0.15&count_weight=0.5&layout=compact&theme=vision-friendly-dark">
   <!-- Donut
   <img height=259 src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=quitotactico&layout=donut&langs_count=6&hide=HTML&hide_border=true&role=owner,collaborator&theme=transparent&custom_title=QuitoTactico%27s+Language+stats" alt="QuitoTactico's Language stats" />
   -->
 </div>
+
+<p align="center">
+  <img width="800" height="220" src="https://streak-stats.demolab.com?user=Jonathanbees&theme=highcontrast&hide_border=true&border_radius=5&card_width=800">
+</p>
