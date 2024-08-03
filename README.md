@@ -16,18 +16,19 @@
 <br>
 
 ![image](https://www.codewars.com/users/Jonathanbees/badges/large)
-  
-### ⚙️ &nbsp;GitHub Analytics
 
-<div align="center"> 
-  <img height=250 src="https://github-readme-stats.vercel.app/api?username=Jonathanbees&include_all_commits=true&show_icons=true&line_height=28&hide_border=true&rank_icon=percentile&card_width=1px&exclude_repo=github-readme-stats&theme=vision-friendly-dark&custom_title=Jonathanbees%27s+Github+stats" alt="Jonathanbees's Github stats" />
-  <!--<img height=250 src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jonathanbees&layout=donut&langs_count=8&line_height=0.5&hide=HTML&hide_title=true&hide_border=true&role=owner,collaborator&theme=transparent&custom_title=Jonathanbees%27s+Language+stats&card_width=1px" alt="Jonathanbees's Language stats" />-->
-  <img width="400" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jonathanbees&size_weight=0.15&count_weight=0.5&layout=compact&theme=vision-friendly-dark">
-  <!-- Donut
-  <img height=259 src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=quitotactico&layout=donut&langs_count=6&hide=HTML&hide_border=true&role=owner,collaborator&theme=transparent&custom_title=QuitoTactico%27s+Language+stats" alt="QuitoTactico's Language stats" />
-  -->
-</div>
-
+### *Stadistics*
 <p align="center">
-  <img width="800" height="220" src="https://streak-stats.demolab.com?user=Jonathanbees&theme=highcontrast&hide_border=true&border_radius=5&card_width=800">
-</p>
+  <table align="center">
+    <tr border="1" cellpadding="10">
+      <td width="60%" align="center">  <img height=250 src="https://github-readme-stats.vercel.app/api?username=Jonathanbees&include_all_commits=true&show_icons=true&line_height=28&hide_border=true&rank_icon=percentile&card_width=1px&exclude_repo=github-readme-stats&theme=vision-friendly-dark&custom_title=Jonathanbees%27s+Github+stats" alt="Jonathanbees's Github stats" />
+  <br></br>
+  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Jonathanbees&theme=vision-friendly-dark&hide_border=false" /> 
+</td>
+<td width="40%" align="center">
+
+  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Jonathanbees&theme=vision-friendly-dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
+  
+  </td>
+</tr>
+</table>
