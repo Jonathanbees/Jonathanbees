@@ -10,8 +10,10 @@
 - 🗿  Open to learn whatever related technology or language do it needs to a project
 - 📫 Contact: Jonathanbetancurespinosa@gmail.com or jbetancur3@eafit.edu.co
 <br>
-[![](https://visitcount.itsvg.in/api?id=Jonathanbees&icon=2&color=4)](https://visitcount.itsvg.in)
 
+[![](https://visitcount.itsvg.in/api?id=Jonathanbees&label=Profile%20Views&color=12&icon=7&pretty=true)](https://visitcount.itsvg.in)
+
+<br>
 <br>
 <div align="center">
   <a href="https://www.codewars.com/users/Jonathanbees">
