@@ -26,7 +26,7 @@
 <p align="center">
   <table align="center">
     <tr border="1" cellpadding="10">
-      <td width="60%" align="center">  <img height=250 src="https://github-readme-stats.vercel.app/api?username=Jonathanbees&include_all_commits=true&show_icons=true&line_height=28&hide_border=true&rank_icon=percentile&card_width=1px&exclude_repo=github-readme-stats&theme=vision-friendly-dark&custom_title=Jonathanbees%27s+Github+stats" alt="Jonathanbees's Github stats" />
+      <td width="60%" align="center">  <img height=250 src="https://github-readme-stats.vercel.app/api?username=Jonathanbees&include_all_commits=true&show_icons=true&line_height=28&hide_border=false&rank_icon=percentile&card_width=1px&exclude_repo=github-readme-stats&theme=vision-friendly-dark&custom_title=Jonathanbees%27s+Github+stats" alt="Jonathanbees's Github stats" />
   <br></br>
   <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Jonathanbees&theme=vision-friendly-dark&hide_border=false" /> 
 </td>
