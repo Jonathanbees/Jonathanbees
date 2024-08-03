@@ -17,7 +17,7 @@
 <br>
 <div align="center">
   <a href="https://www.codewars.com/users/Jonathanbees">
-    <img src="https://codewars-stats-ignacio-cuadra.vercel.app/?username=Jonathanbees&theme=vision-friendly-dark" alt="Github Readme Codewars" />
+    <img src="https://codewars-stats-ignacio-cuadra.vercel.app/?username=Jonathanbees&theme=dark" alt="Github Readme Codewars" />
   </a>
 </div>
 
