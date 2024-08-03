@@ -10,12 +10,15 @@
 - 🗿  Open to learn whatever related technology or language do it needs to a project
 - 📫 Contact: Jonathanbetancurespinosa@gmail.com or jbetancur3@eafit.edu.co
 <br>
-
-![Python](https://badgen.net/badge/Python/3.12/green) ![PHP](https://badgen.net/badge/PHP/8.12/blue) ![JavaScript](https://badgen.net/badge/JavaScript/ES7/yellow) ![C++](https://badgen.net/badge/C++/20/blue) ![MySQL](https://badgen.net/badge/MySQL/8.4/orange) ![MongoDB](https://badgen.net/badge/MongoDB/7.0/green) ![HTML](https://badgen.net/badge/HTML/5/red) ![CSS](https://badgen.net/badge/CSS/3/blue)
+[![](https://visitcount.itsvg.in/api?id=Jonathanbees&icon=2&color=4)](https://visitcount.itsvg.in)
 
 <br>
+<div align="center">
+  <a href="https://www.codewars.com/users/Jonathanbees">
+    <img src="https://codewars-stats-ignacio-cuadra.vercel.app/?username=Jonathanbees&theme=vision-friendly-dark" alt="Github Readme Codewars" />
+  </a>
+</div>
 
-![image](https://www.codewars.com/users/Jonathanbees/badges/large)
 
 ### *Stadistics*
 <p align="center">
@@ -32,3 +35,61 @@
   </td>
 </tr>
 </table>
+
+<div align="center">
+<h2><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"> Languages I know</h2>
+ </div>
+ <br>
+<p align="center">
+  <a href="">
+    <img src="https://skillicons.dev/icons?i=cpp,,js,ts,,py,php,r,,dart" />
+  </a>
+</p>
+<br>
+
+<div align="center">
+<h2>Tools Used</h2>
+ </div>
+ 
+ <div align="center">
+<h6>Web</h6>
+ </div>
+ 
+ <p align="center">
+  <a href="">
+    <img src="https://skillicons.dev/icons?i=react,django,flutter,nodejs,laravel,,html,css,,bootstrap,tailwind" />
+  </a>
+</p>
+
+  <div align="center">
+<h6>DataBase</h6>
+ </div>
+
+<p align="center">
+  <a href="">
+    <img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres,sqlite" />
+  </a>
+</p>
+
+
+ <div align="center">
+<h6>Cloud</h6>
+ </div>
+
+ <p align="center">
+  <a href="">
+    <img src="https://skillicons.dev/icons?i=gcp,aws" />
+  </a>
+</p>
+ 
+<div align="center">
+<h6>Operathing Systems</h6>
+ </div>
+
+ <p align="center">
+  <a href="">
+    <img src="https://skillicons.dev/icons?i=ubuntu,,windows,,kali" />
+  </a>
+</p>
+
+<br>
