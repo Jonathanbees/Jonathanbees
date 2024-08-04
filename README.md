@@ -34,11 +34,6 @@
 
   <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Jonathanbees&theme=vision-friendly-dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
   
-  </td>
-  <td align="center">
-  [![trophy](https://github-profile-trophy.vercel.app/?username=Jonathanbees)](https://github.com/ryo-ma/github-profile-trophy)
-
-  </td>
 </tr>
 </table>
 
@@ -99,3 +94,5 @@
 </p>
 
 <br>
+
+[![Profile Trophies](https://github-profile-trophy.vercel.app/?username=Jonathanbees&theme=onedark&column=-1)](https://github.com/ryo-ma/github-profile-trophy)
