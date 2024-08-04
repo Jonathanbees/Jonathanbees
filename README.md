@@ -12,6 +12,7 @@
 <br>
 
 ![](https://komarev.com/ghpvc/?username=Joanthanbees&color=lightgrey)
+[![Profile Trophies](https://github-profile-trophy.vercel.app/?username=Jonathanbees&theme=onedark&column=-1)](https://github.com/ryo-ma/github-profile-trophy)
 
 <br>
 <br>
@@ -95,4 +96,4 @@
 
 <br>
 
-[![Profile Trophies](https://github-profile-trophy.vercel.app/?username=Jonathanbees&theme=onedark&column=-1)](https://github.com/ryo-ma/github-profile-trophy)
+
