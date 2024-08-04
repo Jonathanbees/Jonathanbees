@@ -11,7 +11,7 @@
 - 📫 Contact: Jonathanbetancurespinosa@gmail.com or jbetancur3@eafit.edu.co
 <br>
 
-[![](https://visitcount.itsvg.in/api?id=Jonathanbees&label=Profile%20Views&color=12&icon=7&pretty=true)](https://visitcount.itsvg.in)
+![](https://komarev.com/ghpvc/?username=Joanthanbees&color=lightgrey)
 
 <br>
 <br>
@@ -34,6 +34,9 @@
 
   <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Jonathanbees&theme=vision-friendly-dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
   
+  </td>
+  <td align="center">
+    [![Profile Trophies](https://github-profile-trophy.vercel.app/?username=Jonathanbees&theme=onedark&column=-1)](https://github.com/ryo-ma/github-profile-trophy)
   </td>
 </tr>
 </table>
