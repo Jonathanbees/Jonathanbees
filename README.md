@@ -86,7 +86,7 @@
 </p>
  
 <div align="center">
-<h6>Operathing Systems</h6>
+<h6>Operating Systems</h6>
  </div>
 
  <p align="center">
