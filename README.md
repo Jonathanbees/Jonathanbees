@@ -36,7 +36,8 @@
   
   </td>
   <td align="center">
-    [![Profile Trophies](https://github-profile-trophy.vercel.app/?username=Jonathanbees&theme=onedark&column=-1)](https://github.com/ryo-ma/github-profile-trophy)
+  [![trophy](https://github-profile-trophy.vercel.app/?username=Jonathanbees)](https://github.com/ryo-ma/github-profile-trophy)
+
   </td>
 </tr>
 </table>
