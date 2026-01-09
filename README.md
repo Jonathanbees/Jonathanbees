@@ -40,8 +40,8 @@
 - Experienced **Backend Developer** with expertise in Python, Django,FastAPI, Docker, Postgress, MySQL.
 - Experienced **Frontend Developer** with expertise in JavaScript, TypeScript, React, NextJS and modern web technologies
 - Passionate about **building scalable solutions** and **learning everything necessary to every position**. 
-Continuously learning and exploring new technologies in cloud computing, data engineering, and AI
-Strong analytical skills with experience in statistical analysis, data visualization, and business intelligence
+- Continuously learning and exploring new technologies in cloud computing, data engineering, and AI
+- Strong analytical skills with experience in statistical analysis, data visualization, and business intelligence
 
 ### What I Do
 - **Backend Development**: Building web interactive interfaces using JavaScript, TypeScript, Tailwind, NextJS and React.
@@ -51,7 +51,6 @@ Strong analytical skills with experience in statistical analysis, data visualiza
 - **Data Analysis**: Extracting insights from data using Python (Pandas, NumPy, Matplotlib, Seaborn, Plotly)
 - **Research & Analysis**: Conducting statistical analysis and creating data-driven solutions
 
----
 ## Tech Stack (hopefully to learn even more every day)
 
 ### Programming Languages
