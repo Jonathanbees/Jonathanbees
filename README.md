@@ -1,100 +1,145 @@
-### Hello there and welcome 🤙
-
-## About me
-
-- ⭐ Student of software engineering ⭐ 
-- 💻 Passionate about software development
-- 🕸️ Knowledge in languages and tools like: 🐍 Python, PHP, Javascript,C++, 🗻 Databases like Mysql and MongoDB, HTML and CSS
-- ✏️ I´m currently learning so much about python, javascript frameworks like NodeJS, Laravel, and Cloud tools like AWS ☁️
-- 🏹 I´m looking to increase all of my programming capacities that allow me to get the future that i want
-- 🗿  Open to learn whatever related technology or language do it needs to a project
-- 📫 Contact: Jonathanbetancurespinosa@gmail.com or jbetancur3@eafit.edu.co
-<br>
-
-![](https://komarev.com/ghpvc/?username=Joanthanbees&color=lightgrey)
-<br>
-[![Profile Trophies](https://github-profile-trophy.vercel.app/?username=Jonathanbees&theme=juicyfresh&column=-1)](https://github.com/ryo-ma/github-profile-trophy)
-
-<br>
-<br>
 <div align="center">
-  <a href="https://www.codewars.com/users/Jonathanbees">
-    <img src="https://codewars-stats-ignacio-cuadra.vercel.app/?username=Jonathanbees&theme=dark" alt="Github Readme Codewars" />
-  </a>
+  
+# Hey guys, I'm Jonathan, How are you doing?
+
+### Systems Engineer | Master's Student in Applied Data Science | Backend Developer
+
+[![Email](https://img.shields.io/badge/Email-Jonathanbetancurespinosa%40gmail.com-red?style=flat-square&logo=gmail)](mailto:Jonathanbetancurespinosa@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Jonathan%20Betancur-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/jonathan-betancur-a34b32209/)
+[![Location](https://img.shields.io/badge/Location-Medell%C3%ADn%2C%20Colombia-green?style=flat-square&logo=google-maps)](https://maps.google.com/?q=Medellin,Colombia)
+
 </div>
 
+---
+<details>
+  <summary align="center">
+     Curiosities about me 🗿:
+  </summary>  
+<br>
 
-### *Stadistics*
+<ol>
+<li> I love to play chess, so, if you want to play with me, here´s my user: 
+
+  [![Chess.com](https://img.shields.io/badge/Chess.com-Jonathanbees-green?style=for-the-badge&logo=chesscom&logoColor=white)](https://www.chess.com/member/Jonathanbees)
+</li>
+<li>I also enjoy gaming, either on Steam or PlayStation:
+
+  [![Steam](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/profiles/76561198296779225/)
+</li>
+<li>And last one, i have a longer streak in Duolingo too:
+
+  [![Duolingo](https://img.shields.io/badge/Duolingo-58CC02?style=for-the-badge&logo=duolingo&logoColor=black)](https://www.duolingo.com/profile/jonathanbees)
+</li>
+</ol>
+</details>
+
+## About my trayectory
+
+- **Systems Engineer** graduate from EAFIT University with a strong foundation in software development and data analysis
+- Currently pursuing a **Master's Degree in Software Engineering and Computer Systems** at International University of La Rioja
+- Experienced **Backend Developer** with expertise in Python, Django,FastAPI, Docker, Postgress, MySQL.
+- Experienced **Frontend Developer** with expertise in JavaScript, TypeScript, React, NextJS and modern web technologies
+- Passionate about **building scalable solutions** and **learning everything necessary to every position**. 
+Continuously learning and exploring new technologies in cloud computing, data engineering, and AI
+Strong analytical skills with experience in statistical analysis, data visualization, and business intelligence
+
+### What I Do
+- **Backend Development**: Building web interactive interfaces using JavaScript, TypeScript, Tailwind, NextJS and React.
+- **Backend Development**: Building robust APIs and web applications with Django, FastAPI, Flask, and Node.js.
+- **Database Design**: Designing and optimizing databases (MySQL, PostgreSQL, MongoDB)
+- **Cloud & DevOps**: Deploying applications on AWS and GCP with modern DevOps practices like CI/CD.
+- **Data Analysis**: Extracting insights from data using Python (Pandas, NumPy, Matplotlib, Seaborn, Plotly)
+- **Research & Analysis**: Conducting statistical analysis and creating data-driven solutions
+
+---
+## Tech Stack (hopefully to learn even more every day)
+
+### Programming Languages
 <p align="center">
-  <table align="center">
-    <tr border="1" cellpadding="10">
-      <td width="60%" align="center">  <img height=250 src="https://github-readme-stats.vercel.app/api?username=Jonathanbees&include_all_commits=true&show_icons=true&line_height=28&hide_border=false&rank_icon=percentile&card_width=1px&exclude_repo=github-readme-stats&theme=vision-friendly-dark&custom_title=Jonathanbees%27s+Github+stats" alt="Jonathanbees's Github stats" />
-  <br></br>
-  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Jonathanbees&theme=vision-friendly-dark&hide_border=false" /> 
-</td>
-<td width="40%" align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=python,javascript,typescript,cpp,php,r,java" alt="Programming Languages"/>
+  </a>
+</p>
 
-  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Jonathanbees&theme=vision-friendly-dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
+### Backend & Web Development
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=django,flask,fastapi,nodejs,express,laravel,react,next,html,css,bootstrap,tailwind" alt="Web Development"/>
+  </a>
+</p>
+
+### Data Science & Analytics
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=pandas,polars,numpy,matplotlib,seaborn,sklearn,tensorflow,pytorch" alt="Data Science"/>
+  </a>
+</p>
+
+### Databases
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=mysql,postgresql,mongodb,sqlite,redis" alt="Databases"/>
+  </a>
+</p>
+
+### Cloud & DevOps
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=aws,gcp,docker,git,github,linux,ubuntu" alt="Cloud & DevOps"/>
+  </a>
+</p>
+
+### Tools & IDEs
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=vscode,pycharm,jupyter,postman,figma,notion" alt="Tools"/>
+  </a>
+</p>
+---
+
+## GitHub Statistics
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Jonathanbees&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph" />
+</div>
+
+---
+
+## Professional Experience Highlights
+
+- **Full-Stack Development** - End-to-end development from database design to frontend implementation
+- **Data Analyst** - Expertise in statistical analysis, data visualization, and business intelligence
+- **Backend Developer** - Building scalable APIs and web applications with modern frameworks
+- **Academic Research** - Contributing to data science and software engineering projects
+- **Cloud Computing** - Deploying and managing applications on AWS and GCP
+
+---
+
+## Let's Connect :3
+
+<div align="center">
   
-</tr>
-</table>
+I'm always open to interesting conversations and collaboration opportunities! Whether you want to discuss:
+- **Professional Opportunities**
+- **Collaboration on Projects**
+- **Data Science & Machine Learning**
+- **Software Development Best Practices**
+
+Feel free to reach out!
+
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Jonathanbetancurespinosa@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jonathan-betancur-a34b32209/)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Jonathanbees)
+
+</div>
+
+---
 
 <div align="center">
-<h2><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"> Languages I know</h2>
- </div>
- <br>
-<p align="center">
-  <a href="">
-    <img src="https://skillicons.dev/icons?i=cpp,,js,ts,,py,php,r,,dart" />
-  </a>
-</p>
-<br>
-
-<div align="center">
-<h2>Tools Used</h2>
- </div>
- 
- <div align="center">
-<h6>Web</h6>
- </div>
- 
- <p align="center">
-  <a href="">
-    <img src="https://skillicons.dev/icons?i=react,django,flutter,nodejs,laravel,,html,css,,bootstrap,tailwind" />
-  </a>
-</p>
-
-  <div align="center">
-<h6>DataBase</h6>
- </div>
-
-<p align="center">
-  <a href="">
-    <img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres,sqlite" />
-  </a>
-</p>
-
-
- <div align="center">
-<h6>Cloud</h6>
- </div>
-
- <p align="center">
-  <a href="">
-    <img src="https://skillicons.dev/icons?i=gcp,aws" />
-  </a>
-</p>
- 
-<div align="center">
-<h6>Operating Systems</h6>
- </div>
-
- <p align="center">
-  <a href="">
-    <img src="https://skillicons.dev/icons?i=ubuntu,,windows,,kali" />
-  </a>
-</p>
-
-<br>
+  <img src="https://komarev.com/ghpvc/?username=Jonathanbees&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile views" />
+  
+  ### "Code is like humor. When you have to explain it, it's bad." – Cory House
+  
+  **Thanks for visiting my profile! Have a great day!**
+</div>
 
 
