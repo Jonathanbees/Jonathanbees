@@ -2,7 +2,7 @@
   
 # Hey guys, I'm Jonathan, How are you doing?
 
-### Systems Engineer | Master's Degree in Software Engineering and Computer Systems | FullStack Developer
+### Systems Engineer | FullStack Developer
 
 [![Email](https://img.shields.io/badge/Email-Jonathanbetancurespinosa%40gmail.com-red?style=flat-square&logo=gmail)](mailto:Jonathanbetancurespinosa@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Jonathan%20Betancur-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/jonathan-betancur-a34b32209/)
